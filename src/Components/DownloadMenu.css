@@ -1,0 +1,9 @@
+.Download-menu {
+    top: 100px;
+    right: 50px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: black;
+  }

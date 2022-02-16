@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: #1d1d27
+}
+
+
+.App-header {
+  background-color: #1d1d27;
+  min-height: 100vh;
+  flex-direction: column;
+  color: #ececee;
+}
+
+
+.Download-button {
+  top: 150px;
+  right: 50px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: grey;
+  color: rgb(243, 240, 240); 
+}
+

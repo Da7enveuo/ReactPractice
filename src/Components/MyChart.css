@@ -1,0 +1,8 @@
+.Graph {
+    top: 200px;
+    left: 50px;
+    width: 1800px;
+    height: 500px;
+    background-color: rgb(224, 223, 223);
+    position:absolute; 
+  }

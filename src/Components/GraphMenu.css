@@ -1,0 +1,10 @@
+
+.Graph-menu {
+    top: 750px;
+    left: 50px;
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: black;
+  }

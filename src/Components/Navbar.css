@@ -1,0 +1,52 @@
+.Navbar-logo {
+    border-right: 1px solid grey; 
+    border-top: 0px solid grey; 
+    border-left: 1px solid grey;
+    float: left;
+    padding: 16.5px 16px;
+    color: #a8a1a1;
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+  }
+  .Navbar-logo-img {
+    float: left;
+    height: auto;
+    width: auto;
+    max-width: 30px;
+    max-height: 30px;
+    background-color: black;
+  }
+  
+  .Navbar {
+    background-color: black;
+    overflow: hidden;
+    border-bottom: 3px solid grey;
+  
+  }
+  
+  .Navbar-text {
+    border-right: 1px solid grey; 
+    border-top: 0px solid grey; 
+    border-left: 1px solid grey;
+    float: left;
+    color: #f7f7f7;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: black;
+  }
+  
+  .Navbar-set {
+    border-right: 1px solid grey; 
+    border-top: 0px solid grey; 
+    border-left: 1px solid grey;
+    float: right;
+    color: #f7f5f5;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    background-color: black; 
+  }
